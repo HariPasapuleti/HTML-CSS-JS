@@ -25,7 +25,7 @@ You can view a live demo of the app [here](https://text-to-speech7.netlify.app/)
 2. Navigate to the project directory:
 
    ```bash
-   cd HTML-CSS-JS/Text-to-Speech
+   cd HTML-CSS-JS/Text\ to\ Speech
    ```
 3. Open `index.html` in your favorite browser to use the app.
 
