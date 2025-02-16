@@ -20,7 +20,7 @@ A collection of fun, interactive, and practical web development projects built u
    - The game ends when the snake collides with walls or itself.
    - **Technologies Used**: HTML, CSS, JavaScript.
 
-4. [**Text to Speech Converter**](./Text-to-Speech)
+4. [**Text to Speech Converter**](./Text%20to%20Speech)
    - Converts user-entered text to spoken audio using the Speech Synthesis API.
    - Offers playback controls and a responsive design.
    - **Technologies Used**: HTML5, CSS3, JavaScript.
