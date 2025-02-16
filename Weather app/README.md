@@ -12,6 +12,10 @@ A modern weather application that provides real-time weather updates for any loc
 - 🌐 **Dynamic Icons**: Weather-specific icons to enhance the visual experience.
 
 ---
+## Demo
+You can view a live demo of the app [here](https://weather-forcast7.netlify.app/).
+
+---
 
 ## Tech Stack 🧰
 - **Frontend**: HTML, CSS, JavaScript
@@ -23,5 +27,22 @@ A modern weather application that provides real-time weather updates for any loc
 ## Installation 🔧
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
+    ```bash
+    git clone https://github.com/HariPasapuleti/HTML-CSS-JS.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd HTML-CSS-JS/Weather \app
+    ```
+3. Open `index.html` in your web browser.
+
+---
+
+## Usage 🚀
+
+1. Enter the name of a city in the search bar to fetch weather data for that location.
+2. Allow location access in your browser for automatic weather updates based on your current location.
+3. View real-time temperature, humidity, wind speed, and other weather details.
+4. Scroll to see the 24-hour weather forecast with dynamic icons representing the conditions.
+
+---
