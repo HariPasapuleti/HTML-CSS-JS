@@ -12,8 +12,7 @@ A simple and accessible web application that converts text into spoken audio usi
 
 ---
 ## Live Demo
-
-[Click here to view the live demo](https://text-to-speech7.netlify.app/)
+You can view a live demo of the app [here](https://text-to-speech7.netlify.app/).
 
 ---
 ## Installation
