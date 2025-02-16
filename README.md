@@ -15,7 +15,7 @@ A collection of fun, interactive, and practical web development projects built u
    - Includes basic arithmetic operations, backspace, and clear functionality.
    - **Technologies Used**: HTML, CSS, JavaScript.
 
-3. [**Snake Game**](./Snake%20Game)
+3. [**Snake Game**](./Snake%20game)
    - Classic snake game with sound effects, score tracking, and a responsive design.
    - The game ends when the snake collides with walls or itself.
    - **Technologies Used**: HTML, CSS, JavaScript.
@@ -25,7 +25,7 @@ A collection of fun, interactive, and practical web development projects built u
    - Offers playback controls and a responsive design.
    - **Technologies Used**: HTML5, CSS3, JavaScript.
 
-5. [**Weather App**](./Weather%20App)
+5. [**Weather App**](./Weather%20app)
    - Provides real-time weather updates for any city or location-based weather.
    - Includes a 24-hour weather forecast and dynamic weather icons.
    - **Technologies Used**: HTML, CSS, JavaScript, WeatherAPI.
