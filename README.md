@@ -2,6 +2,7 @@
 
 A collection of fun, interactive, and practical web development projects built using HTML, CSS, and JavaScript. Each project is designed to demonstrate core web development skills, creativity, and functionality. 🚀
 
+---
 ## Projects Included 📂
 
 1. [**Bubble Game**](./Bubble%20Game)
@@ -43,6 +44,7 @@ A collection of fun, interactive, and practical web development projects built u
    ```
 3. Open index.html in your browser to view and interact with the project.
 
+---
 ## Demo Links 🔗
 
 - [Bubble Game](https://bubble-game2.netlify.app/)
