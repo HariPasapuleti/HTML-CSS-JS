@@ -2,6 +2,7 @@
 
 A fun and interactive bubble-clicking game designed to test your skills and keep you engaged! 🚀
 
+---
 ## Features 🌟
 - **Hit Target**: Aim to match the target number in the "Hit" box.
 - **Timer**: Countdown timer to keep the game challenging.
