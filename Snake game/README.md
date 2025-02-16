@@ -9,11 +9,20 @@ A simple Snake Game built using HTML, CSS, and JavaScript. The game features a s
 - **Score Tracking**: Displays current score and high score (stored in local storage).
 - **Game Over Condition**: The game ends when the snake collides with the walls or itself.
 
+---
+## Demo
+You can view a live demo of the app [here](https://snake-game-5.netlify.app/).
+
+---
 ## Setup
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HariPasapuleti/Snake-game.git
+   git clone https://github.com/HariPasapuleti/HTML-CSS-JS.git
+   ```
+2. Navigate to the Calculator directory:
+   ```bash
+   cd HTML-CSS-JS/Snake \game
    ```
 2. Open `index.html` in a web browser to play the game.
 
