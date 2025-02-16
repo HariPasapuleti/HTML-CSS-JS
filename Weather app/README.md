@@ -32,7 +32,7 @@ You can view a live demo of the app [here](https://weather-forcast7.netlify.app/
     ```
 2. Navigate to the project directory:
     ```bash
-    cd HTML-CSS-JS/Weather \app
+    cd HTML-CSS-JS/Weather\ app
     ```
 3. Open `index.html` in your web browser.
 
