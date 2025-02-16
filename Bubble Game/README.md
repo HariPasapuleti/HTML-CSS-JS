@@ -19,6 +19,11 @@ A fun and interactive bubble-clicking game designed to test your skills and keep
 
 ---
 
+## Demo 🎥  
+[Play Bubble Game Online](https://bubble-game2.netlify.app/)
+
+---
+
 ## Usage 🚀
 1. Clone the repository:  
    ```bash
