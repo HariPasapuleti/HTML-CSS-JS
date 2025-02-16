@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+  }
+  
+  #main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, #153677, #371577, #4e085f, #5f0846);
+    background-size: cover;
+    font-family: "Courier New", Courier, monospace;
+  }
+  
+  #panel {
+    width: 80%;
+    height: 80%;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: beige;
+  }
+  
+  #ptop {
+    padding: 0px 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 80px;
+    background-image: url(https://plus.unsplash.com/premium_photo-1670157709475-804e923487fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q09MT1VSU3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1000&q=60);
+    background-size: cover;
+    color: #fff;
+  }
+  
+  #score {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  #score h2 {
+    font-weight: 600;
+    font-size: 20px;
+  }
+  
+  .box {
+    font-weight: 900;
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: #fff;
+    color: rgb(180, 31, 135);
+    border-radius: 5px;
+  }
+  
+  #pbtm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    width: 100%;
+    height: calc(100% - 80px);
+    padding: 15px;
+  }
+  
+  .bubble {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-weight: 800;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+  
+  .bubble:hover {
+    cursor: pointer;
+    background-image: linear-gradient(rgb(0 0 0/40%) 0 0);
+  }
+  
