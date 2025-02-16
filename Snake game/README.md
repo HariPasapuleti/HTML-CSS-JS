@@ -22,7 +22,7 @@ You can view a live demo of the app [here](https://snake-game-5.netlify.app/).
    ```
 2. Navigate to the Calculator directory:
    ```bash
-   cd HTML-CSS-JS/Snake \game
+   cd HTML-CSS-JS/Snake\ game
    ```
 2. Open `index.html` in a web browser to play the game.
 
