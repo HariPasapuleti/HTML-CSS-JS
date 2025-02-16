@@ -45,11 +45,11 @@ A collection of fun, interactive, and practical web development projects built u
 
 ## Demo Links 🔗
 
-- [Bubble Game](https://haripasapuleti.github.io/Bubble-Game/)
-- [Calculator](https://haripasapuleti.github.io/Calculator/)
-- [Snake Game](https://haripasapuleti.github.io/Snake-Game/)
-- [Text to Speech](https://haripasapuleti.github.io/Text-to-Speech/)
-- [Weather App](https://haripasapuleti.github.io/Weather-App/)
+- [Bubble Game](https://bubble-game2.netlify.app/)
+- [Calculator](https://hari-calculator1.netlify.app/)
+- [Snake Game](https://snake-game-5.netlify.app/)
+- [Text to Speech](https://text-to-speech7.netlify.app/)
+- [Weather App](https://weather-forcast7.netlify.app/)
 
 ---
 
