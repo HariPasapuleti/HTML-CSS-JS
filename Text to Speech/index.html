@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text to Speech Converter</title>
+    <link rel="icon" href="assets/text_to_speech.png" type="image/x-icon">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <div class="app-container">
+            <div class="headings-container">
+                <h1>Text to Speech Converter</h1>
+                <h3>Transform your written words into spoken audio with a simple click.</h3>
+            </div>
+
+            <div class="interaction-container">
+                <textarea id="textToConvert" placeholder="Type or paste text here to convert into speech..." 
+                    cols="35" rows="10" class="text-control" aria-label="Text input area"></textarea>
+                <p class="error-para" role="alert"></p>
+                <button class="btn" id="convertBtn" aria-label="Play speech from text">Play Speech</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

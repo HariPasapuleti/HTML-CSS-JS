@@ -1,0 +1,107 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(135deg, #3b5998, #8b9dc3);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+/* Container styling */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+}
+
+/* App container styling */
+.app-container {
+    background: rgba(255, 255, 255, 0.15);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+    max-width: 600px;
+    width: 100%;
+    text-align: center;
+}
+
+/* Headings styling */
+.headings-container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.headings-container h3 {
+    font-size: 1.2rem;
+    color: #e0e0e0;
+    margin-bottom: 30px;
+    line-height: 1.6;
+}
+
+/* Textarea styling */
+.text-control {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.3);
+    color: #fff;
+    font-size: 1rem;
+    resize: none;
+    outline: none;
+    transition: background 0.3s ease, border 0.3s ease;
+    ::placeholder {
+        color: rgba(255, 255, 255, 0.6);
+    }
+}
+
+.text-control::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+    font-style: italic;
+}
+
+.text-control:focus {
+    background: rgba(255, 255, 255, 0.4);
+    border: 2px solid #1c8adb;
+}
+
+/* Error message styling */
+.error-para {
+    color: #ff4d4f;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 0.9rem;
+}
+
+/* Button styling */
+.btn {
+    background: #1c8adb;
+    color: #fff;
+    padding: 12px 30px;
+    border: none;
+    border-radius: 50px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s;
+}
+
+.btn:hover {
+    background: #105aa6;
+    transform: scale(1.05);
+}
